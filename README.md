@@ -1,13 +1,14 @@
 # Bsale Front-End
 
-Bsale es una tienda que muestra un lista de productos, agrupados por la categoria que pertenecen de manera accendente(segun clave primaria).
+Bsale es una tienda que muestra una lista de productos, agrupados por la categoría que pertenecen de manera ascendente(según clave primaria).
 
 # Funcionalidades
 
-* Buscar por nombre especifico.
+* Buscar por nombre específico.
 * Buscar por nombre que coincida.
 
-Herramientas utilizadas en el proyecto:
+# Herramientas utilizadas en el proyecto:
+
 * Html
 * Css
 * Bootstrap

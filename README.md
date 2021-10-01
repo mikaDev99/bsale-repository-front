@@ -3,6 +3,7 @@
 Este proyecto fue realizado con las siguientes herramientas:
 * Html
 * Css
+* Bootstrap
 * Javascript
 * Jquery
 

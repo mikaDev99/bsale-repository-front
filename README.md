@@ -23,6 +23,6 @@ Puede acceder a sitio mediante el siguiente enlace:
 https://wendigodev.github.io/bsale-repository-front/
 ```
 
-# Detalles a conciderar:
+# Detalles a considerar:
 
 La aplicación tarda un momento en cargar los productos debido a que el servidor se apaga si no está en uso en un periodo de tiempo estimado. Tarda aproximadamente 3 segundos en encender y luego funciona de manera normal sin retraso.
